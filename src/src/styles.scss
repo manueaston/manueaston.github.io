@@ -12,7 +12,7 @@ $widescreen-enabled: false;
 $fullhd-enabled: false;
 
 // More theme colors could be added here...
-$primary: #454545;
+$primary: navy;
 
 $spaces: ("0": 0, "1": 1.65rem, "2": 1.75rem);
 
@@ -20,7 +20,7 @@ $margin-default: map-get($spaces, "2") map-get($spaces, "0");
 
 // Update some of Bulma's component & color variables
 $footer-padding: 3rem 1.5rem;
-$link: hsl(171, 100%, 41%);
+$link: navy;
 
 // Custom Styles
 .card-gap {margin-top:1.75rem}
